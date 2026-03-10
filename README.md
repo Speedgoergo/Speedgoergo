@@ -1,5 +1,5 @@
 ## Heya!
-I'm a composer, game developer, and world builder.
+I'm a composer, game developer, and world builder.  
 I specialize in orchestral composition, 3D art, and being a silly little guy.
 <!--
 **Speedgoergo/Speedgoergo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
